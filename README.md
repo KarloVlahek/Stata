@@ -2,9 +2,6 @@
 The Effects of the Slave Trades on Literacy Rate in Modern Day Africa
 
 I take the relevant portions of the paper that give a general background for its motivation, and the interpretation of my code (i.e. - results). This paper recieved the Robert B. Carson Award at SUNY Oneonta (my alma mater) for the top paper in economics. Additionally, it recieved first place in the New York State Economoics Association undergraduate writring paper. There are certainly shortcomings of my thesis, which I discuss in section 5 of my [paper](https://www.linkedin.com/in/karlovlahek/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB7rVTEBIyTXj9z-rFTyeBeDmOwrJnxvyq8,1603152022744)/). 
-Note: 
-
-lit_do (3).do <- my do file for appending literacy data from the Demographic and Health Survey (DHS) with Nunn (2008).
 
 Thanks for stopping by!
 
